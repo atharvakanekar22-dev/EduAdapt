@@ -7,7 +7,7 @@ EduAdapt is an AI-powered adaptive learning and student intelligence platform de
 ## Core Innovations
 
 1. **Student Intelligence Layer**: Tracks deep knowledge gaps, prerequisite readiness, and common misconceptions.
-2. **Deterministic Adaptive Engine**: Uses assessment data and a prerequisite graph to recommend exactly what to learn next and, crucially, explains *why*.
+2. **Deterministic Adaptive Engine**: Uses assessment data and a prerequisite graph to recommend exactly what to learn next and, crucially.
 3. **Socratic AI Tutor**: Uses Gemini to guide students through concepts without blindly giving them answers, ensuring human-in-the-loop education.
 
 ## Architecture
